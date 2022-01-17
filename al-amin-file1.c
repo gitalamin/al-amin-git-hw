@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
-   printf("al-amin");
+   int a = 10 ;
+   printf("Al Amin");
    return 0;
 }
